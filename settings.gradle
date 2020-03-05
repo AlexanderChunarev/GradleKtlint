@@ -1,0 +1,2 @@
+include ':app', ':customRuleset'
+rootProject.name='GradleKtlint'
